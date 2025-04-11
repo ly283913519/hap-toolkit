@@ -412,7 +412,8 @@ const themeColors = [
   'uxIconColorAccent',
   'uxIconColorPrimary',
   'uxIconColorSecondary',
-  'uxIconColorBackground'
+  'uxIconColorBackground',
+  'uxCardColorBackground'
 ]
 const validator = {
   /**
