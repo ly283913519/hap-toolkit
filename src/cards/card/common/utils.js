@@ -17,7 +17,7 @@ export function checkNetwork() {
         }
       },
       fail: (err) => {
-        res(false)
+        res(false )
       }
     })
   })
