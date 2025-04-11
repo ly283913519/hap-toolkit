@@ -1,0 +1,21 @@
+{
+  "modeOptions": {
+    "current": -1,
+    "list": [
+      {
+        "name": "card",
+        "pathName": "cards/card",
+        "query": "",
+        "isCard": true,
+        "id": 0
+      },
+      {
+        "name": "new-card",
+        "pathName": "widget",
+        "query": "",
+        "isCard": true,
+        "id": 1
+      }
+    ]
+  }
+}
