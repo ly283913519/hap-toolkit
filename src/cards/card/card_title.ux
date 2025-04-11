@@ -7,6 +7,7 @@
     right-icon="refresh-fill"
     is-dark="{{ isDark }}"
     @right-click="onRightClick">
+    <span>test</span>
     <image src="./images/logo.png" object-fit="contain"></image>
   </widget-title>
 </template>
@@ -22,6 +23,7 @@
     props: {
       isDark: {
         type: Boolean,
+
         default: false
       },
       hasRight: {
