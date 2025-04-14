@@ -7,7 +7,7 @@
     right-icon="refresh-fill"
     is-dark="{{ isDark }}"
     @right-click="onRightClick">
-    <span>test</span>
+    <span>test111</span>
     <image src="./images/logo.png" object-fit="contain"></image>
   </widget-title>
 </template>
