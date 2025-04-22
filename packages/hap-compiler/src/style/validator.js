@@ -2671,9 +2671,7 @@ const validatorMap = {
   themeColor: makeEnumValidator(themeColors),
   themeBackgroundColor: makeEnumValidator(themeColors),
   themeLayerColor: makeEnumValidator(themeColors),
-  themeThumbColor: makeEnumValidator(themeColors),
-  themeTrackColor: makeEnumValidator(themeColors),
-  themeSelectColor: makeEnumValidator(themeColors),
+  themeSelectedColor: makeEnumValidator(themeColors),
   themeBlockColor: makeEnumValidator(themeColors)
 }
 
