@@ -398,22 +398,15 @@ const validateTime = function (v) {
 }
 // 灵感组件颜色值
 const themeColors = [
-  'uxCardColorTheme',
+  'uxCardColorBackground',
   'uxCardColorAccent',
-  'uxCardColorPrimary',
-  'uxCardColorSecondary',
-  'uxCardColorSecondaryVariant',
-  'uxCardColorTertiary',
-  'uxCardColorQuaternary',
   'uxCardColorContainer',
-  'uxCardBackground',
   'uxCardColorHue',
   'uxCardColorHueSecondary',
-  'uxIconColorAccent',
-  'uxIconColorPrimary',
-  'uxIconColorSecondary',
-  'uxIconColorBackground',
-  'uxCardColorBackground'
+  'uxCardColorPrimary',
+  'uxCardColorQuaternary',
+  'uxCardColorSecondaryVariant',
+  'uxCardColorTertiary',
 ]
 const validator = {
   /**
